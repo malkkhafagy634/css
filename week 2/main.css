@@ -1,0 +1,56 @@
+html{
+    font-size: 20px;
+} 
+div{ 
+    border: 2px orange solid ;
+    padding: 20px ;
+    margin: 20px;
+}
+p{
+    background-color: lightgrey ;
+    border: inherit ;
+    padding: inherit ;
+    text-align: center;
+}
+.kk{
+     border: 2px green solid ;
+    padding: 20px ;
+    margin: 20px;
+    
+}
+div .ll{
+    background-color: lightgrey ;
+    border: inherit ;
+    padding: inherit ;
+    text-align: center;
+    
+}
+.one{
+    font-family: open sans ;
+    font-weight: 300;
+    font-style: italic ;
+    text-align: center;
+    text-transform: capitalize;
+}
+.two{
+    font-family: cairo ;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+}
+.three{
+    font-family: Jomhuria;
+    font-weight: 400;
+    text-align: center;
+    text-transform: capitalize;
+}
+.m{
+    font-size: 2.5rem  ;
+    
+}
+.n{
+    font-size: 2rem;
+}
+.b{
+    font-size: 1.5rem;
+}
